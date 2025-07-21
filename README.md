@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
+[![MasterHead]([https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F7FF&vCenter=true&center=true&width=900&lines=Hi+there+👋+I'm+Dechawut;Full-Stack+Developer+%7C+Cloud+Learner;Code.+Deploy.+Repeat.))
 <h1 align="center">Hi 👋, I'm Dechawut Kaewaiang</h1>
 <h3 align="center">A passionate Web Developer from Thailand</h3>
 <img align="right" alt="Coding" width="400" src="https://mustafagunaydin.dev/images/dev.gif">
