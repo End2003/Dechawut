@@ -18,10 +18,6 @@
                 <span><strong>ASP.NET</strong></span><br/>
                 <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png">
             </td>
-            <td align="center">
-                <span><strong>Blazor</strong></span><br/>
-                <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Blazor.png">
-            </td>
         </tr>
     </tbody>
 </table>
