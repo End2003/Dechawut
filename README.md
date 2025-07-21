@@ -1,41 +1,175 @@
 ![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F7FF&vCenter=true&center=true&width=900&lines=Hi+there+👋+I'm+Dechawut;Full-Stack+Developer+%7C+Cloud+Learner;Code.+Deploy.+Repeat.)
 ## ⚒️ Tech Stack
 
-### 🖥️ Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-</p>
+## 🎓 Tools and Technologies:
 
-### 🗃️ Databases
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### Programming Languages
+<center>
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <span><strong>Python</strong></span><br/>
+                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+            </td>
+            <td align="center">
+                <span><strong>Java</strong></span><br/>
+                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+</center>
 
-### ☁️ Cloud Platforms & Hosting
-<p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### Frontend Development
+<center>
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <span><strong>HTML</strong></span><br/>
+                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+            </td>
+            <td align="center">
+                <span><strong>CSS</strong></span><br/>
+                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+            </td>
+            <td align="center">
+                <span><strong>JavaScript</strong></span><br/>
+                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+            </td>
+            <td align="center">
+                <span><strong>React</strong></span><br/>
+                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+            </td>
+            <td align="center">
+                <span><strong>Vue.js</strong></span><br/>
+                <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
+            </td>
+            <td align="center">
+                <span><strong>Laravel</strong></span><br/>
+                <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
+            </td>
+            <td align="center">
+                <span><strong>Bootstrap</strong></span><br/>
+                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+            </td>
+            <td align="center">
+                <span><strong>PHP</strong></span><br/>
+                <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+</center>
 
-### 🎨 Design & Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+### Databases
+<center>
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <span><strong>MySQL</strong></span><br/>
+                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+            </td>
+            <td align="center">
+                <span><strong>MongoDB</strong></span><br/>
+                <img height="64px" width="64px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+</center>
 
+### Web Hosting Platforms
+<center>
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <span><strong>Firebase</strong></span><br/>
+                <img src="https://miro.medium.com/v2/resize:fit:90/1*R4c8lHBHuH5qyqOtZb3h-w.png">
+            </td>
+            <td align="center">
+                <span><strong>Netlify</strong></span><br/>
+                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
+            </td>
+            <td align="center">
+                <span><strong>GitHub Pages</strong></span><br/>
+                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+</center>
+
+### Design Software
+<center>
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <span><strong>Figma</strong></span><br/>
+                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+            </td>
+            <td align="center">
+                <span><strong>Canva</strong></span><br/>
+                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+</center>
+
+### Cloud Platforms
+<center>
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <span><strong>Google Cloud</strong></span><br/>
+                <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">
+            </td>
+            <td align="center">
+                <span><strong>AWS</strong></span><br/>
+                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+            </td>
+            <td align="center">
+                <span><strong>Azure</strong></span><br/>
+                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+</center>
+
+### Others
+<center>
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <span><strong>Git</strong></span><br/>
+                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+            </td>
+            <td align="center">
+                <span><strong>GitHub</strong></span><br/>
+                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+            </td>
+            <td align="center">
+                <span><strong>Arduino</strong></span><br/>
+                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+</center>
 ---
 ## GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=End2003&show_icons=true&locale=en&layout=compact" alt="End2003" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=End2003&show_icons=true&locale=en" alt="End2003" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=End2003&" alt="End2003" /></p>
+
+## 📫 Contact Me
+📧 **Email**: narhai27@gmail.com  
+🔗 **Portfolio**: _coming soon..._
