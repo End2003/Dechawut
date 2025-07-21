@@ -1,8 +1,6 @@
 ![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F7FF&vCenter=true&center=true&width=900&lines=Hi+there+👋+I'm+Dechawut;Full-Stack+Developer+%7C+Cloud+Learner;Code.+Deploy.+Repeat.)
 ## ⚒️ Tech Stack
 
-## 🎓 Tools and Technologies:
-
 ### Programming Languages
 <center>
 <table>
